@@ -12,16 +12,4 @@ This repository contains the implementation of Convolutional Neural Networks (CN
   - Fashion-MNIST (Clothing Classification)
 - **Feature Visualization:** Plots of activation maps, gradients, and learned kernels.
 
-## Visualizations
-
-### Gradient Flow
-![Gradient Visualization](visualization/gradient_visualization.png)
-
-### Learned Kernels
-![Learned Kernels](visualization/learned_kernels.png)
-
-### Activation Maps
-![Activation Maps](visualization/activation_maps.png)
-
-## Blog Post
-For a detailed walkthrough of the project, including technical insights and challenges, check out the [Medium blog post](# to be added once posted).
+Don't miss out on the visualizations!
